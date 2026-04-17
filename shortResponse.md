@@ -10,6 +10,7 @@ What is the difference between a static unit like `px` and a responsive unit lik
 
 Describe what makes a unit responsive and why that matters when building a website.
 
+The difference is that static unit will always shows the size of what you typed, no matter how big or small is screen size, it will always keep the size across all kind of screen size. When a element is responsive the property size will change base on the screen size to make it fit into different size of screen. It's important because it allow the elements fit into website not too big or too small. 
 
 
 
@@ -35,6 +36,7 @@ Look at these two CSS rules:
 
 Explain what happens to the image on a small screen with each rule. Why does one behave better than the other?
 
+First one the size will always stays the same, and it might not fix with diffeent screen size, while second one can fix base on screen size to make it more fit. Second one is better because it do not matter how big or small is screen size it fit into all size.
 
 
 
