@@ -36,7 +36,7 @@ Look at these two CSS rules:
 
 Explain what happens to the image on a small screen with each rule. Why does one behave better than the other?
 
-First one the size will always stays the same, and it might not fix with diffeent screen size, while second one can fix base on screen size to make it more fit. Second one is better because it do not matter how big or small is screen size it fit into all size.
+First one the size will always stays the same, and it might not fit with diffeent screen size, like it might be too big. While second one can fix the element base on screen size to make it more fit to different screen size and container. Second one is better because it do not matter how big or small is screen size, it fit into all size.
 
 
 
